@@ -11,8 +11,6 @@ public class Password
         // Create this method so that it checks to see that the password
         // is at least 8 characters long and only contains letters 
         // and numbers.
-        String alph = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-        String digits = "0123456789";
         
         
         
